@@ -1,2 +1,6 @@
 # 3803ict-workshops
-Maya Wood s5258574
+Full Name: Maya Angelina Wood
+
+sNumber: s5258574
+
+Griffith email: maya.wood@griffithuni.edu.au
